@@ -1,0 +1,22 @@
+                               
+                                              _______________________
+   _______________________-------------------                       `\
+ /:--__                                                              |
+||< > |                                   ___________________________/
+| \__/_________________-------------------                         |
+|                                                                  |
+ |                       Introduction                               |
+ |                                                                  |
+ |      "Bienvenue dans l'application de gestion de bibliotheque !  |
+  |        Simplifiez la gestion de vos livres, emprunts et          |
+  |      utilisateurs grace a une interface intuitive et efficace.   |
+  |         Profitez d'une experience fluide pour organiser          |
+  |      votre bibliotheque."                                         |
+   |                                                                  |
+   |                   						      |
+   |            					             |
+  |                                              ____________________|_
+  |  ___________________-------------------------                      `\
+  |/`--_                                                                 |
+  ||[ ]||                                            ___________________/
+   \===/___________________--------------------------

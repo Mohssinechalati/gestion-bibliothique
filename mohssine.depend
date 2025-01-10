@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1734892221 source:c:\users\yassi\desktop\nnjj\bin\mohssine\ffggd.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdbool.h>
+
+1734892097 source:c:\users\yassi\desktop\nnjj\bin\mohssine\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdbool.h>
+	"f.h"
+
+1734892092 c:\users\yassi\desktop\nnjj\bin\mohssine\f.h
+
+1735001473 source:c:\users\yassi\desktop\emsi\2ap\langage-c projet\mohssine\ffggd.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdbool.h>
+
+1735002036 source:c:\users\yassi\desktop\emsi\2ap\langage-c projet\mohssine\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdbool.h>
+	"f.h"
+
+1734892092 c:\users\yassi\desktop\emsi\2ap\langage-c projet\mohssine\f.h
+
+1735258527 source:c:\users\yassi\desktop\emsi\2ap\langage-c projet\7fctlie\ffggd.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdbool.h>
+
+1735257997 source:c:\users\yassi\desktop\emsi\2ap\langage-c projet\7fctlie\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdbool.h>
+	"f.h"
+
+1735257902 c:\users\yassi\desktop\emsi\2ap\langage-c projet\7fctlie\f.h
+
+1736546847 source:c:\users\yassi\desktop\emsi\2ap\langage-c projet\gestion biblio\ffggd.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdbool.h>
+
+1736546999 source:c:\users\yassi\desktop\emsi\2ap\langage-c projet\gestion biblio\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdbool.h>
+	"f.h"
+
+1736546452 c:\users\yassi\desktop\emsi\2ap\langage-c projet\gestion biblio\f.h
+
